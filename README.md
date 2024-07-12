@@ -1,6 +1,6 @@
 # apnacollege-demo
 This is my practice repository
 <br>
-Author : Mahesh
+Author : Mahesh k
 <br>
 City :Delhi 
